@@ -474,5 +474,35 @@
   },
   "dns": {
     "definition": "Domain Name Service"
-  }
+  },
+   "ASAP": {
+        "definition": "As Soon As Possible"
+    },
+    "FYI": {
+        "definition": "For Your Information"
+    },
+    "LOL": {
+        "definition": "Laugh Out Loud"
+    },
+    "DIY": {
+        "definition": "Do It Yourself"
+    },
+    "TBD": {
+        "definition": "To Be Determined"
+    },
+    "EOD": {
+        "definition": "End of Day"
+    },
+    "ETA": {
+        "definition": "Estimated Time of Arrival"
+    },
+    "RSVP": {
+        "definition": "Répondez s'il vous plaît (Please respond)"
+    },
+    "FYE": {
+        "definition": "For Your Entertainment"
+    },
+    "TGIF": {
+        "definition": "Thank God It's Friday"
+    }
 }
